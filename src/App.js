@@ -1,4 +1,4 @@
-import TaskForm from "./components/TaskForm.js";
+import TaskForm from "./components/TaskForm/index.js";
 
 import "./App.css";
 

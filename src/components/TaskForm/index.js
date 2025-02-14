@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import TaskItem from "../TaskItem.js";
+import TaskItem from "../TaskItem/index.js";
 import axios from "axios";
 import "./index.css";
 
